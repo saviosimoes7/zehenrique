@@ -1,0 +1,192 @@
+Crie uma landing page ultra profissional, moderna e visual impactante para o cantor Ze Henrique
+
+A página deve ter um visual premium, chamativo e completamente fora do comum, com UI contemporânea, animações suaves, transições ao scroll e efeitos visuais que impressionam.
+
+🎨 Diretrizes de Design
+	•	Estilo: Futurista + corporativo moderno, com tons Preto / Chumbo: elegância e destaque, Dourado / Âmbar: valor, palco, sucesso, Branco: equilíbrio e leitura
+	•	Tipografia moderna, bold, com títulos fortes e subtítulos limpos.
+	•	Backgrounds com gradientes suaves, shapes geométricos, luzes neon e pequenos brilhos.
+	•	Cards com blur (glassmorphism) e bordas luminosas.
+	•	Fotos e ícones com fade-in + scale-up animado.
+	•	Textos com máquina de escrever / typing effect onde fizer sentido.
+	•	Seções entrando com fade-up, slide, parallax, reveal no scroll.
+
+⸻
+
+📚 Estrutura Completa da Landing Page
+
+🟣 SEÇÃO 1 — HERO ABSURDAMENTE IMPACTANTE
+	•	Título com animação de texto (digitando ou mudando palavras):
+“A trilha sonora perfeita para o seu evento”
+	•	Subtítulo forte:
+“Show que emociona, anima e transforma momentos especiais em memórias inesquecíveis”
+	•	Botão principal chamativo com glow: "Faça um orçamento agora"
+	•	Background com animação leve (partículas, luz neon, shapes flutuando).
+	Indicadores (em destaque):
+		+100 casamentos realizados
+		+50 confraternizações
+		+30 festas de 15 anos
+		
+	Imagem sugerida:
+		Foto profissional do cantor no palco, cantando com emoção
+		Luz quente (âmbar/dourado), público desfocado ao fundo
+		Expressão confiante e carismática
+	Fundo:
+		Degradê escuro (preto/chumbo) com leve textura ou luz de palco
+
+🔵 SEÇÃO 2 — BENEFÍCIOS-CHAVE (com animação por bloco)
+
+Título:
+
+Eventos que faço parte
+
+Subtítulo:
+
+Música certa para cada momento especial
+
+Cards:
+
+💍 Casamentos – Cerimônia, recepção e momentos emocionantes
+
+🎂 15 Anos – Repertório jovem, atual e animado
+
+🥂 Confraternizações – Shows descontraídos e envolventes
+
+Imagem sugerida:
+
+Ícones ou fotos representativas de cada evento
+
+cada card aparecendo com:
+	•	fade-in + slide-up
+	•	ícone animado
+	•	borda neon leve ao passar o mouse
+
+
+🟣 SEÇÃO 3 — APRESENTAÇÃO DO CANTO (scroll reveal forte)
+
+Título:
+
+Prazer, eu sou o Ze Henrique
+
+Texto:
+
+A música sempre fez parte da minha vida. Levo o sertanejo para eventos que pedem emoção, alegria e autenticidade. Já tive o privilégio de fazer parte de centenas de histórias, desde casamentos cheios de amor até festas animadas e confraternizações inesquecíveis. Meu compromisso é entregar um show de qualidade, com repertório escolhido a dedo para cada ocasião.
+
+Imagem sugerida:
+
+Foto em ambiente mais intimista (voz e violão)
+
+Close ou meio corpo
+
+
+🔥 SEÇÃO 4 — FAQ – Perguntas Frequentes (Lista animada ao clicar para ver a resposta)
+
+Perguntas e respostas:
+
+⏱ Quantas horas de show?
+
+O tempo de apresentação é flexível e pode ser ajustado conforme o evento, geralmente entre 1h30 e 3h.
+
+🎸 Faz só voz e violão?
+
+Sim! Também realizo apresentações no formato voz e violão, ideais para cerimônias e eventos mais intimistas.
+
+🎶 Qual o estilo musical?
+
+Sertanejo atual e clássico, com possibilidade de incluir músicas românticas e animadas conforme o perfil do evento.
+
+O plano do meio (Profissional) deve ser o mais destacado (efeito popular choice).
+
+💎 SEÇÃO 5 — PROVA SOCIAL
+
+Título:
+O que dizem sobre meu trabalho
+
+Depoimentos entrando com:
+	•	fade
+	•	slide horizontal
+	•	carrossel automático suave
+	
+	Exemplos de depoimentos:
+
+⭐⭐⭐⭐⭐ “O Ze Henrique deixou nosso casamento ainda mais emocionante. Todos elogiaram!”
+
+⭐⭐⭐⭐⭐ “Show incrível, repertório perfeito para a confraternização da empresa.”
+
+Imagem sugerida:
+
+Fotos reais dos eventos ou avatar dos clientes
+
+SEÇÃO 6 - Spotify/Músicas
+
+Título:
+
+Escute minhas músicas
+
+Subtítulo:
+
+Disponíveis nas principais plataformas digitais
+
+Conteúdo:
+
+Player incorporado do Spotify
+
+Logos: Spotify
+
+Imagem sugerida:
+
+Capa artística ou foto conceitual
+
+
+⚡ SEÇÃO 7 — CHAMADA FINAL
+
+Título forte + botão gigante, ambos animados:
+
+Título:
+
+Quer levar o melhor do sertanejo para o seu evento?
+
+Texto:
+
+Entre em contato agora e solicite um orçamento sem compromisso.
+
+Botão:
+
+💬 Falar no WhatsApp
+
+WhatsApp Flutuante
+
+Objetivo: Conversão rápida.
+
+Ícone do WhatsApp fixo no canto inferior direito
+
+Mensagem automática sugerida:
+
+“Olá, gostaria de solicitar um orçamento para um evento.”
+
+RODAPE
+
+Título:
+
+Me acompanhe nas redes sociais
+
+Conteúdo:
+
+Instagram (@zehenrique)
+
+🧩 Requisitos Técnicos
+	•	Código limpo
+	•	Responsivo
+	•	Efeitos CSS modernos
+	•	Animações usando:
+	•	GSAP
+	•	Framer Motion
+	•	ou CSS keyframes (o que preferir)
+	•	Estrutura HTML organizada
+	•	Comentários claros no código
+
+⸻
+
+🎬 OBSERVAÇÃO PARA O GEMINI
+
+Explique cada seção, gere TODO o código HTML, CSS (preferencialmente Tailwind, mas pode ser puro) e JS necessário para as animações.
