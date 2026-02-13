@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // --- 3. Typing Effect (Fixed) ---
-    const words = ["para casamentos", "para 15 anos", "para sua festa!"];
+    const words = ["para casamentos", "para formaturas", "para sua festa!"];
     const typingElement = document.getElementById("typing-text");
     let wordIndex = 0;
     let charIndex = 0;
